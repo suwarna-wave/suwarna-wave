@@ -1,12 +1,10 @@
 ## 👋 Hi, I'm [@suwarna-wave](https://github.com/suwarna-wave)
  
 Welcome to my GitHub profile! I'm passionate about Engineering , I am an undergrad Electronics Communication and Information engineer. 
-🌟 NASO Undergraduate Student Member | 🚀 Aspiring Space & Robotics Enthusiast | 🌌 Astronomy | 
 
-Electronics, Communication and Information Engineering Undergrad |🧠 AI & ML Enthusiast | Tech Configuration 
+🌟 Hello, I'm a proud NASO (National Astronomy and Space Organization) Undergraduate Student Member with a burning passion for all things space and robotics. 🚀 As an Electronics, Communication, and Information Engineering undergrad, I'm on a mission to blend my tech-savvy mind with the mysteries of the cosmos. 🌌 Astronomy has always been my guiding star, and I proudly advocate for diversity in tech as a local volunteer. 🧠 When I'm not stargazing, I'm diving deep into the world of AI and machine learning, constantly pushing the boundaries of technology. I'm not just an enthusiast; I'm an experienced team leader and tech aficionado ready to explore the infinite possibilities of the universe. Let's connect and embark on this cosmic journey together!
 
-Passionate about space, robotics, and technology. Undergrad in Electronics & Communication with a love for astronomy. NASO Member , Local Volunteer and advocate for women in tech. Enthusiastic about AI & machine learning. Experienced team leader and tech aficionado.
- "Let's connect and explore the possibilities!" 
+ 🌠🤖🔭 #SpaceTech #AIEnthusiast #DiversityInTech
 
 
 ### 👀 I'm Interested In
@@ -14,7 +12,7 @@ Passionate about space, robotics, and technology. Undergrad in Electronics & Com
 
 
 ### 💞️ I'm Looking to Collaborate On
-- [Share what types of projects or collaborations you're open to]
+- [💞️ I'm eagerly seeking collaborative opportunities that align with my passion for space, robotics, and cutting-edge technology. Whether it's contributing to space tech projects, exploring the realms of AI and machine learning, or championing diversity in tech initiatives, I'm all in. Let's join forces to create innovative solutions, launch exciting ventures, and reach for the stars together! 🚀✨ If you share my enthusiasm for these areas, I'd love to connect and explore the endless possibilities that await us in the cosmos and the tech universe.]
 
 ### 📫 How to Reach Me
 - You can reach out to me via [Email](Suwarnapyakurel5@gmail.com)
