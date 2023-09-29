@@ -2,7 +2,7 @@
  
 Welcome to my GitHub profile! I'm passionate about Engineering , I am an undergrad Electronics Communication and Information engineer. 
 
-🌟 Hello, I'm a proud NASO (National Astronomy and Space Organization) Undergraduate Student Member with a burning passion for all things space and robotics. 🚀 As an Electronics, Communication, and Information Engineering undergrad, I'm on a mission to blend my tech-savvy mind with the mysteries of the cosmos. 🌌 Astronomy has always been my guiding star, and I proudly advocate for diversity in tech as a local volunteer. 🧠 When I'm not stargazing, I'm diving deep into the world of AI and machine learning, constantly pushing the boundaries of technology. I'm not just an enthusiast; I'm an experienced team leader and tech aficionado ready to explore the infinite possibilities of the universe. Let's connect and embark on this cosmic journey together!
+🌟 Hello, I'm a proud NASO (Nepal Astronomical Society) Undergraduate Student Member with a burning passion for all things space and robotics. 🚀 As an Electronics, Communication, and Information Engineering undergrad, I'm on a mission to blend my tech-savvy mind with the mysteries of the cosmos. 🌌 Astronomy has always been my guiding star, and I proudly advocate for diversity in tech as a local volunteer. 🧠 When I'm not stargazing, I'm diving deep into the world of AI and machine learning, constantly pushing the boundaries of technology. I'm not just an enthusiast; I'm an experienced team leader and tech aficionado ready to explore the infinite possibilities of the universe. Let's connect and embark on this cosmic journey together!
 
  🌠🤖🔭 #SpaceTech #AIEnthusiast #DiversityInTech
 
