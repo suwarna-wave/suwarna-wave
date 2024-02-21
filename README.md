@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm passionate about Engineering , I am an undergr
 - [💞️ I'm eagerly seeking collaborative opportunities that align with my passion for space, robotics, and cutting-edge technology. Whether it's contributing to space tech projects, exploring the realms of AI and machine learning, or championing diversity in tech initiatives, I'm all in. Let's join forces to create innovative solutions, launch exciting ventures, and reach for the stars together! 🚀✨ If you share my enthusiasm for these areas, I'd love to connect and explore the endless possibilities that await us in the cosmos and the tech universe.]
 
 ### 📫 How to Reach Me
-- You can reach out to me via [Email](Suwarnapyakurel5@gmail.com)
+- You can reach out to me via [Email](suwarnapyakurel5@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/suwarna-pyakurel-9a4232256/)
-- Follow me on [Instagram](https://www.instagram.com/suwarna_pyakurel/)
+- Follow me on [Instagram](https://www.instagram.com/pyakurel.suwarna/)
 - Visit my [Website/Blog](https://essentialsapplications.blogspot.com/)
 
 [![GitHub followers](https://img.shields.io/github/followers/suwarna-wave?label=Follow&style=social)](https://github.com/suwarna-wave)
