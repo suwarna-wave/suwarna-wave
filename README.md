@@ -9,7 +9,10 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/4114355725744733275?hl=en&tab=jj](https://www.blogger.com/blog/posts/4114355725744733275?hl=en&tab=jj)
+- 📝 I regularly write articles on 
+  - <a href="https://www.blogger.com/blog/posts/4114355725744733275?hl=en&tab=jj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" height="20" width="20" /> My Blogger</a>
+  - <a href="https://techtalksloud.blogspot.com/2024/08/the-future-of-remote-work-leveraging.html" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" height="20" width="20" /> The Future of Remote Work</a>
+  - <a href="https://medium.com/@suwarnapyakurel/the-future-of-remote-work-leveraging-technology-for-a-hybrid-workforce-4439f3d16dec" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="20" width="20" /> The Future of Remote Work on Medium</a>
 
 - 💬 Ask me about **Frontend Development, Robotics , Python , Open CV**
 
