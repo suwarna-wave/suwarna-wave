@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwarna-wave" alt="suwarna-wave" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing and Web Scrapping**
+- 🌱 I’m currently learning **Cloud Computing and Django**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **ROS**
 
 - 📝 I regularly write articles on 
   - <a href="https://www.blogger.com/blog/posts/4114355725744733275?hl=en&tab=jj" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" alt="Blogger" height="20" width="20" /> Blogger</a>
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Frontend Development, Robotics , Python , Open CV**
 
-- 📫 How to reach me **suwarnapyakurel@gmail.com**
+- 📫 How to reach me **suwarnapyakurel5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
