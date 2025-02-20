@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suwarna Pyakurel</h1>
 <h3 align="center">Passionate Space-robotics learner and an undergrad Electronics , Communication and Information Engineer who is willing to work on applicative and practical technologies. I'm a proud NASO (Nepal Astronomical Society) Undergraduate Student Member with a burning passion for space and robotics. As an Electronics, Communication, and Information Engineering undergrad, I'm on a mission to blend my tech-savvy mind with the mysteries of the cosmos. Astronomy has always been my guiding star, and I proudly advocate for diversity in tech as a local volunteer. When I'm not stargazing, I'm diving deep into the world of AI and machine learning, constantly pushing the boundaries of technology. I'm not just an enthusiast; I'm an experienced team leader and tech aficionado ready to explore the infinite possibilities of the universe. Let's connect and embark on this cosmic journey together!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suwarna-wave&label=Profile%20views&color=0e75b6&style=flat" alt="suwarna-wave" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwarna-wave" alt="suwarna-wave" /></a> </p>
 
